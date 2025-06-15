@@ -8,6 +8,9 @@ This machine learning classification project uses historical customer data to tr
 
 ---
 
+## Project Video Recording
+https://drive.google.com/file/d/1RPSlIs02Mhwj1OEJ2HgwxJdhQASAY5Z-/view?usp=sharing
+
 ## 🛠️ Local Setup Instructions
 
 Follow these steps to set up and run the project locally:
@@ -28,4 +31,6 @@ pip install -r requirements.txt
 # 4 Run the notebook or Python script:
 streamlit run app.py
 
+# Output Screenshot 
+![Screenshot (538)](https://github.com/user-attachments/assets/b738ffde-e16e-49b0-a686-5bedecada43b)
 
